@@ -16,7 +16,7 @@ Se a interface de um dos lados mudar, somente o adaptador precisará ser reajust
 ## Analogia 
 Em comparação com o mundo real, o adapter seria nada mais do que:
  - o adaptador de uma tomada
- -
+ - um intérprete em uma reunião bilíngue, que traduz a comunicação entre duas pessoas com idiomas diferentes
 ---
 ## Vantagens
 
