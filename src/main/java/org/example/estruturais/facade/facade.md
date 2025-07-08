@@ -5,7 +5,7 @@
 
 ---
 ## 💥 Problema
-- Imagine que você precisa acessar todas as  bibliotecas de seu bairro em busca de um livro especifico
+- Imagine que você precisa acessar todas as  bibliotecas da sua cidade em busca de um livro especifico
 - Porém, há inúmeras bibliotecas, ter que ir pessoalmente em cada uma delas torna o processo mais dificultoso
 
 ---
