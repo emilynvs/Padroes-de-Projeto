@@ -7,9 +7,7 @@
 -  Em determinadas partes do sistema, será necessário trabalhar com a instância única
   - Log de sistemas
   - Gerador de ID
-  - etc
 - Criar instancias com o método tradicional, ou seja multiplos `new`, geraria mau uso de memória, dados inconsistentes, etc
-
 
 ---
 ## ✅ Solução
