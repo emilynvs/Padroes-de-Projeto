@@ -16,6 +16,7 @@
   - Cria um método estático de criação que age como um construtor
     - ele verifica se a instância já existe, caso o contrario ele cria uma e envia(retorna)
 - Não importa quantas vezes a classe é chamada, vai ser sempre a mesma instância que será retornada
+
 ---
 
 ## Analogia 
